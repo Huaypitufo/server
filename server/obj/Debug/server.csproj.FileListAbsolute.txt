@@ -1,0 +1,6 @@
+C:\Users\unnikrishnan\source\repos\server\server\bin\Debug\server.exe
+C:\Users\unnikrishnan\source\repos\server\server\bin\Debug\server.pdb
+C:\Users\unnikrishnan\source\repos\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\unnikrishnan\source\repos\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\unnikrishnan\source\repos\server\server\obj\Debug\server.exe
+C:\Users\unnikrishnan\source\repos\server\server\obj\Debug\server.pdb
